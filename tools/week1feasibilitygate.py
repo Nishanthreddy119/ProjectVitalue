@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 """
+Chicagoland hospital MRF feasibility gate.
+
 Week‑1 go/no‑go harness for the capstone. Three stages:
 
     python chicago_mrf_gate.py discover  -> read cms-hpt.txt from each health system
