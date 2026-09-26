@@ -14,4 +14,5 @@ A few decisions I made deliberately:
 Full proposal and code in the repo. Would genuinely welcome feedback
 
 🎥 Proposal walkthrough: https://lnkd.in/gz7dzXdU
+Linkedin: https://lnkd.in/p/giPqpr9F
 
