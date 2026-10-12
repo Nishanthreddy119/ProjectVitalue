@@ -2,8 +2,6 @@
 """
 Chicagoland hospital MRF feasibility gate.
 
-Week‑1 go/no‑go harness for the capstone. Three stages:
-
     python chicago_mrf_gate.py discover  -> read cms-hpt.txt from each health system
     python chicago_mrf_gate.py probe     -> HEAD each MRF for size and content type
     python chicago_mrf_gate.py sample    -> download the smallest files, extract payers
